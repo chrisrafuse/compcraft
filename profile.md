@@ -4,11 +4,11 @@
 Chris is a strong Web and Mobile Application Developer with an Industrial Design Degree as well as 10 plus years of experience developing Web services and supporting mission critical Web based applications in high level programming languages such as Java, PHP, JavaScript, jQuey and Ajax. He also has experience with mobile frameworks and PhoneGap. Chris is recognized as having a great sense of humor and being easy to work with.
 
 ##Core Competencies ##
-Java/J2EE	HTML5/CSS3		Oracle, MySQL, PostgresSQL
-JavaScript	PHP/Perl		Liferay, JSR 168/286
-jQuery/Dojo	XML/JSON/SOAP	Agile/Spiral
-Ajax		ColdFusion		FLEX/ActionScript3
-C/C++		Linux/Unix		JDBC
+> Java/J2EE	HTML5/CSS3		Oracle, MySQL, PostgresSQL
+> JavaScript	PHP/Perl		Liferay, JSR 168/286
+> jQuery/Dojo	XML/JSON/SOAP	Agile/Spiral
+> Ajax		ColdFusion		FLEX/ActionScript3
+> C/C++		Linux/Unix		JDBC
 
 ##Technology Skills ##
 
@@ -30,6 +30,6 @@ C/C++		Linux/Unix		JDBC
 
 **Priologic Software Inc     								2011 – Current**
 **Web Developer**
-Upgrade Cisco Engineering Strategic Communications’ Web pages to new template and JavaScript components for accessibility compliance.  Complete service requests for internal site clients and supporting over 14,000 pages.  Overseeing Perl application migration to new facilities.  Support frontend requests for internal Quad communities. Primary Web contact and lead when manager is on PTO.  Created an IPad marketing app for Schneider Electric.  Used jQuery mobile and PhoneGap to implement PDF and video viewers within an IOS/Mac environment.
+> Upgrade Cisco Engineering Strategic Communications’ Web pages to new template and JavaScript components for accessibility compliance.  Complete service requests for internal site clients and supporting over 14,000 pages.  Overseeing Perl application migration to new facilities.  Support frontend requests for internal Quad communities. Primary Web contact and lead when manager is on PTO.  Created an IPad marketing app for Schneider Electric.  Used jQuery mobile and PhoneGap to implement PDF and video viewers within an IOS/Mac environment.
 
 *Contact for more info.*
