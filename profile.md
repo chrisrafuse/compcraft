@@ -25,8 +25,9 @@ C/C++, Linux/Unix, JDBC
 
 ##Work Experience ##
 
-###Priologic Software Inc     								2011 - Current ###
-####Web Developer ####
+###Priologic Software Inc###
+####2011 - Current####
+#####Web Developer #####
 Upgrade Cisco Engineering Strategic Communications' Web pages to new template and JavaScript components for accessibility compliance.  Complete service requests for internal site clients and supporting over 14,000 pages.  Overseeing Perl application migration to new facilities.  Support frontend requests for internal Quad communities. Primary Web contact and lead when manager is on PTO.  Created an IPad marketing app for Schneider Electric.  Used jQuery mobile and PhoneGap to implement PDF and video viewers within an IOS/Mac environment.
 
 *Contact for more info.*
