@@ -108,22 +108,25 @@ Developed various web applications and services.
 - Industrial Design Diploma, Emily Carr University, 1989-1994
 
 **Agentic Publications**:
-- [Model Context Protocol IQ is such a Tool, Agentic wise]https://poe.com/MCP_IQ)
+- [Model Context Protocol IQ is such a Tool](https://poe.com/MCP_IQ)
 - [Java Springtime - builds APIs all year long](https://poe.com/JAVASpringtime)
 - [IT IQ fixes IT](https://poe.com/IT_IQ)
 - [Phone Care Assist for support](https://poe.com/PhoneCareAssist)
 - [Grocery Buddy - Saves Money](https://poe.com/GroceryBuddy)
 
 **Landing Pages**:
+- [The Home Depot - Rental Division](https://www.homedepot.com/c/tool-and-equipment-rental?NCNI-5&searchRedirect=rental)
 - [InvasivesBC](https://github.com/bcgov/invasivesbc/)
-- [HS GovTech Solutions, Inc. Citizen Portal](https://myhealthdepartment.com, https://hsgovtech.com)
-- [Teradici, Inc. CAM service](https://cam.teradici.com/)
-- [Mozilla Firefox Hello chat](https://www.techrepublic.com/article/say-hello-to-firefox-hello/, https://www.cnet.com/news/firefox-hello-adds-video-chat-to-mozillas-browser/)
+- [HS GovTech Solutions Inc](https://hsgovtech.com)
+- [HS GovTech Solutions Inc Citizen Portal](https://myhealthdepartment.com)
+- [Teradici Inc - HP - CAM service](https://cam.teradici.com/)
+- [Mozilla Firefox - Hello video chat project](https://www.cnet.com/news/firefox-hello-adds-video-chat-to-mozillas-browser/)
+- [Cisco webex and network appliances](https://www.webex.com/)
 - [CGTV Games](http://cgtvgaming.com/casino-and-table-games.html)
+- Many more 
 
-**GitHub Samples**:
+**GitHub Samples from Mozilla Firefox Hello OSS project**:
 - [Submit URLs to metadata extraction server](https://github.com/mozilla-services/loop-server/pull/371/commits/edac3a3b3e8d03d5bcd03f87bb0ae0da9bff55ad)
 - [Create a thumbnail from a screenshot](https://github.com/chrafuse/loop/commit/4514625f1ca6ddafa40ef0786bbf49e07147225c)
 - [Adapt infobar message](https://github.com/mozilla/loop/pull/244)
-- [Link clicker intro screen](https://github.com/mozilla/loop/pull/206)
 - [Change mute display](https://github.com/chrafuse/loop/commit/e44321b8050e2f0b4cd7d37b14f462858c9c8da9)
