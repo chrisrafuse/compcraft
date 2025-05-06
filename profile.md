@@ -1,25 +1,43 @@
-### Chris Rafuse - Full Stack Developer
+**I’m Chris Rafuse – Full Stack & AI/ML Solutions Architect**
 
-Chris Rafuse is an experienced Full Stack Developer with over 25 years in software development, specializing in web and mobile application development. He holds an Industrial Design Degree and has a robust background in developing and maintaining mission-critical applications using modern technologies like TypeScript, React, Angular, and AWS. Known for his sense of humor and ease of collaboration, Chris excels in both leadership and mentorship roles.
+I blend 25+ years of web evolution (Web 1.0→4.0 and beyond) with bleeding-edge AI/ML, quantum-adjacent vision, and industrial-design rigor. My mission? To architect intelligent, high-impact systems that fuel exponential ROI, unlock new markets, and outpace every competitor.
 
-**Core Competencies**:
-- TypeScript, JavaScript, React, Angular
-- HTML5/CSS3, Java, PHP, Python, Ruby on Rails
-- AWS, Serverless Architecture, Lambda, DynamoDB
-- REST APIs, GraphQL, JSON, XML
-- Agile/SCRUM methodologies
+---
+### What I Do
 
-**Technology Skills**:
-- **Languages**: Java, TypeScript, JavaScript, PHP, Python, Ruby on Rails, C/C++, Perl
-- **Frameworks**: React, Angular, Node.js, Express, Spring Boot
-- **Tools**: Git, Docker, Kubernetes, Jenkins, AWS (Lambda, DynamoDB, S3, Cognito), Terraform
-- **Databases**: MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB
-- **Others**: CI/CD, Serverless Architecture, REST APIs, GraphQL, JSON, XML
+* **Design & Build Human-Centered Interfaces**
+  I craft responsive front-ends with React.js, Angular, Vue 3, HTML5/CSS3, and WebAssembly—always ensuring accessibility, performance, and an intuitive user experience.
+* **Architect Scalable Back-Ends & APIs**
+  From Node.js/Express and Next.js to Spring Boot, Django, and FastAPI, I deliver resilient microservices, serverless functions, and real-time pipelines.
+* **Engineer AI/ML Solutions**
+  I fine-tune LLMs, build multi-model RAG workflows, and deploy production-ready pipelines using PyTorch, TensorFlow, Hugging Face, scikit-learn, and AWS SageMaker. Explainable AI, ethical guardrails, and data-driven decisioning are staples.
+* **Automate & Orchestrate Agentic Workflows**
+  I leverage GitHub Copilot, Cursor, Claude Code, Aider, Apache Airflow, and Prefect to design autonomous agents and pipeline automations that amplify team productivity and eliminate manual toil.
+* **Lead Cloud & DevOps Practices**
+  On AWS (Lambda, EKS, SageMaker), GCP (Vertex AI, Cloud Run), and Azure ML, I implement Infrastructure as Code (Terraform, Helm) and robust CI/CD (Jenkins, GitHub Actions) for seamless, secure delivery.
 
+---
+
+### Core Skills & Tools
+
+* **Languages:** TypeScript, JavaScript, Python, Go, Java, PHP, Ruby, C/C++, Bash, PowerShell
+* **Frameworks & Libraries:** React.js, Angular, NestJS, Next.js, Spring Boot, Django, FastAPI
+* **AI/ML:** PyTorch, TensorFlow, Hugging Face, scikit-learn, AutoGen, MCP, RAG, Explainable AI
+* **Data & Streaming:** PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, RabbitMQ, Snowflake, Dask
+* **DevOps & Infra:** Docker, Kubernetes, AWS EKS/Lambda/SageMaker, GCP Vertex AI, Azure ML, Terraform, Prometheus, Grafana
+* **Collaboration:** VS Code, JetBrains, Jupyter, Confluence, Jira, GitHub
+
+---
+
+**Why Work With Me?**
+I don’t just write code—I orchestrate strategic differentiation. Whether it’s spinning up sub-millisecond Go back-ends, tuning GPT-5 agents, or forging new trade routes with logistic-driven CMS, I deliver future-proof solutions that scale. If you need a ruthless value-creator who sees opportunity where others see chaos—let’s connect.
+
+> *“I don’t just write code—I architect intelligent, scalable systems that deliver exponential ROI.”*
+---
 **Work Experience**:
 
 **Software Development Senior Specialist - NTT Data**  
-*Oct 2023 – Present, Vancouver, BC (Remote)*  
+*Oct 2023 – Mar 2025, Vancouver, BC (Remote)*  
 Lead the development of AI-driven business applications using ReactJS, Next.js, and TypeScript. Manage and coach a team of 7 JavaScript developers, migrating legacy systems to modern web applications.
 
 **Full Stack Web Developer (Contractor) - Modis/Quartech**  
@@ -88,6 +106,13 @@ Developed various web applications and services.
 - Bachelor of Design, Industrial Design, Emily Carr University, 1997-1998
 - Computer Science, University of British Columbia, 1996-1998
 - Industrial Design Diploma, Emily Carr University, 1989-1994
+
+**Agentic Publications**:
+- [Model Context Protocol IQ is such a Tool, Agentic wise]https://poe.com/MCP_IQ)
+- [Java Springtime - builds APIs all year long](https://poe.com/JAVASpringtime)
+- [IT IQ fixes IT](https://poe.com/IT_IQ)
+- [Phone Care Assist for support](https://poe.com/PhoneCareAssist)
+- [Grocery Buddy - Saves Money](https://poe.com/GroceryBuddy)
 
 **Landing Pages**:
 - [InvasivesBC](https://github.com/bcgov/invasivesbc/)
